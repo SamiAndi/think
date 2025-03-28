@@ -1,0 +1,17 @@
+const n={title:"مغلطه‌‌ی دست داغ (Hot Hand Fallacy) (۱۳۰)",url:"https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87%e2%80%8c%e2%80%8c%db%8c-%d8%af%d8%b3%d8%aa-%d8%af%d8%a7%d8%ba/",content:`<p><b>تعریف:</b> <a href="https://www.digikala.com/mag/%D9%85%D8%BA%D9%84%D8%B7%D9%87-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D8%AF%D9%85%DB%8C%D8%B2%D8%A7%D8%AF/"><span style="font-weight: 400;">مغلطه</span></a><span style="font-weight: 400;"> دست داغ به این باور غیرمنطقی اشاره دارد که اگر در یک بازی وابسته به شانس، چند دست پشت سر هم ببرید یا ببازید، یا «داغ» می‌شوید یا «سرد»، یعنی برد یا باخت پیاپی قرار است ادامه پیدا کند و این مساله از دنیای احتمالات فراتر می‌رود. به دلیل حماقت ما انسان‌ها در درک این حقیقت، و اصرار غیرمنطقی‌مان بر عدم پذیرفتن آن، سرتاسر دنیا کازینوها دارند پول پارو می‌کنند. مغلطه‌ی دست داغ با مغلطه‌ی قمارباز (شماره‌ی ۱۲۳) رابطه‌ی نزدیک دارد.&nbsp;</span></p>
+<p><b>معادل انگلیسی: </b><span style="font-weight: 400;">Hot Hand Fallacy</span></p>
+<p><b>معادل‌های جایگزین: </b><span style="font-weight: 400;">پدیده‌ی دست داغ</span></p>
+<p><b>الگوی منطقی:‌</b></p>
+<p><span style="font-weight: 400;">شخص ۱ در یک بازی شانسی X بار پشت سر هم برنده شده است.&nbsp;</span></p>
+<p><span style="font-weight: 400;">بنابراین شخص ۱ «داغ» است و به احتمال زیاد دست بعدی را هم می‌برد.&nbsp;</span></p>
+<p><b>مثال ۱:&nbsp;</b></p>
+<p><span style="font-weight: 400;">مارتا (پس از جفت شیش آوردن): بیا هرچی بردیم جمع کنیم بریم. تا الان خوب اودیم جلو. بهتره تا بخت بهمون پشت نکرده، بازی رو تموم کنیم.&nbsp;</span></p>
+<p><span style="font-weight: 400;">کارلوس: بی‌خیال! الان داغیم! بیا ببینیم برد پیاپی تا کی ادامه پیدا می‌کنه!&nbsp;</span></p>
+<p><b>توضیح: </b><span style="font-weight: 400;">از لحاظ آماری احتمال باخت کارلوس و مارتا در دور بعد بیشتر است، چون الف)‌ برد پیاپی آن‌ها بر اساس شانس بوده، نه استعداد فردی ب) در بازی‌های تاس‌محور احتمال باختن بیشتر از احتمال برد است. کارلوس به اشتباه تصور می‌کند برد پیاپی قرار است ادامه داشته باشد.&nbsp;</span></p><div id="custom_html-8" class="-widget" single-post-ads-in-content="" widget-wrapper="" widget_custom_html"=""><div class="textwidget custom-html-widget"><div smr-id="130" smr-type="banner_fixed"></div></div></div><p></p>
+<p><b>مثال ۲:&nbsp;</b></p>
+<p><span style="font-weight: 400;">می‌توان از حوادثی مثال آورد که به طور کامل به احتمالات وابسته نیستند، مثل پرتاب توپ بسکتبال در سبد. این مثال‌ها جنجالی‌اند، چون با وجود این‌که بعضی مواقع می‌توان بخشی از موفقیت حاصل‌شده را صرفاً به شانس نسبت داد، ولی بدون‌شک استعداد و باورهای شخصی نیز روی نتیجه‌ی نهایی تاثیرگذارند.&nbsp;</span></p>
+<p><b>راهنمایی: </b><span style="font-weight: 400;">باور داشتن به این‌که دور دور شماست (یعنی عملکردتان بسیار قوی‌ست) ممکن است عملکرد قوی‌تری را رقم بزند. به این اتفاق می‌گویند پیش‌گویی خودمحقق‌کننده. همچنین گاهی اوقات تفکر نقادانه نسبت به خودتان روی عملکردتان تاثیر منفی می‌گذارد.&nbsp;</span></p>
+<p><b>منابع:&nbsp;</b></p>
+<p style="direction: ltr;"><span style="font-weight: 400;">The Hot Hand Fallacy: Cognitive Mistakes or Equilibrium Adjustments? Evidence from Baseball. (n.d.). Retrieved from https://www.gsb.stanford.edu/faculty-research/working-papers/hot-hand-fallacy-cognitive-mistakes-or-equilibrium-adjustments</span></p>
+<p><strong>ترجمه‌ای از:&nbsp;</strong></p>
+<p><a href="https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/233/Hot-Hand-Fallacy" target="_blank" rel="noopener noreferrer">Logically Fallacious</a></p>`};export{n as default};
