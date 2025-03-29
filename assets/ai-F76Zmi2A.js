@@ -1,4 +1,4 @@
-const h=`عنوان: مغلطه‌ی لحن بیان (Accent Fallacy) | مغلطه به زبان آدمیزاد (۱)
+const s=`عنوان: مغلطه‌ی لحن بیان (Accent Fallacy) | مغلطه به زبان آدمیزاد (۱)
 آموزش: https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87-%d9%84%d8%ad%d9%86-%d8%a8%db%8c%d8%a7%d9%86/
 عنوان: مغلطه‌ی حذف استثنا (Accident Fallacy) | مغلطه به زبان آدمیزاد (۲)
 آموزش: https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87-%d8%ad%d8%b0%d9%81-%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7/
@@ -453,12 +453,12 @@ const h=`عنوان: مغلطه‌ی لحن بیان (Accent Fallacy) | مغلط
 عنوان: مغلطه‌‌ی کار خدا (God Wildcard Fallacy) | مغلطه به زبان آدمیزاد (۲۲۷)
 آموزش: https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87-%db%8c-%da%a9%d8%a7%d8%b1-%d8%ae%d8%af%d8%a7/
 عنوان: مغلطه‌‌ی جبرگرایی نسبت به گذشته (Retrospective Determinism) | مغلطه به زبان آدمیزاد (۲۲۸)
-آموزش: https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87-%db%8c-%d8%ac%d8%a8%d8%b1%da%af%d8%b1%d8%a7%db%8c%db%8c-%d9%86%d8%b3%d8%a8%d8%aa-%d8%a8%d9%87-%da%af%d8%b0%d8%b4%d8%aa%d9%87/`,n="با استفاده از لیست مغالطه هایی که در اختیار داری باید مغالطه های موجود در عبارت رو تشخیص بدی و فقط لیستی از شماره هاشون رو در یک پیام یک خطی برام بفرستی. اعداد رو انگلیسی بنویس و با space جدا کن.",g=["deepseek/deepseek-chat-v3-0324:free","deepseek/deepseek-chat:free","google/gemini-2.5-pro-exp-03-25:free","google/gemini-2.0-pro-exp-02-05:free"],l=["ZTkyYTk5ODc5YTkyNTBhMjFiMzZkZDY4ZjEyOWIzODMzYzliNWZjMjE1ZTcwMWUyYWYyYmZiNzhjZDkzZmMxYi0xdi1yby1rcw==","NTRiZTQzYTBlNGZkNDZlOWYyNTc2MTU3ZTgyYjliYjZiYTQwYjE1NWE5NTQ5NWVkZTVkNTExNTgxZjI3ZTc1ZS0xdi1yby1rcw==","YzVmZTgxMTViMDdkOWI0ZGUyOWYxOTA0YWI2YmU3YTEyYmY3ZjlhM2IzMjBkYjI0OGIyNjRmZWUxNTY1NDU1Ny0xdi1yby1rcw==","NzRjZDlhMmZiNTZmNDhjNWFmNTAxYzczNmUxMDk0ZTc4ZjVhN2ZkMDNiMjE2ODEwYzMwMGMwYjc1YzdjMmYwMi0xdi1yby1rcw=="].map(d=>atob(d).split("").reverse().join("")).sort(()=>Math.random()-.5),s=[];for(let d=0;d<g.length;d++)for(let c=0;c<l.length;c++)s.push({model:g[d],key:l[c]});async function f(d){var m;const c=`عبارت:
-${d}
+آموزش: https://www.digikala.com/mag/%d9%85%d8%ba%d9%84%d8%b7%d9%87-%db%8c-%d8%ac%d8%a8%d8%b1%da%af%d8%b1%d8%a7%db%8c%db%8c-%d9%86%d8%b3%d8%a8%d8%aa-%d8%a8%d9%87-%da%af%d8%b0%d8%b4%d8%aa%d9%87/`,p="با استفاده از لیست مغالطه هایی که در اختیار داری باید مغالطه های موجود در عبارت رو تشخیص بدی و فقط لیستی از شماره هاشون رو در یک پیام یک خطی برام بفرستی. اعداد رو انگلیسی بنویس و با space جدا کن.",n=["deepseek/deepseek-chat-v3-0324:free","deepseek/deepseek-chat:free","deepseek/deepseek-r1-zero:free","google/gemini-2.5-pro-exp-03-25:free","google/gemini-2.0-flash-exp:free"],h=["ZTkyYTk5ODc5YTkyNTBhMjFiMzZkZDY4ZjEyOWIzODMzYzliNWZjMjE1ZTcwMWUyYWYyYmZiNzhjZDkzZmMxYi0xdi1yby1rcw==","NTRiZTQzYTBlNGZkNDZlOWYyNTc2MTU3ZTgyYjliYjZiYTQwYjE1NWE5NTQ5NWVkZTVkNTExNTgxZjI3ZTc1ZS0xdi1yby1rcw==","YzVmZTgxMTViMDdkOWI0ZGUyOWYxOTA0YWI2YmU3YTEyYmY3ZjlhM2IzMjBkYjI0OGIyNjRmZWUxNTY1NDU1Ny0xdi1yby1rcw==","NzRjZDlhMmZiNTZmNDhjNWFmNTAxYzczNmUxMDk0ZTc4ZjVhN2ZkMDNiMjE2ODEwYzMwMGMwYjc1YzdjMmYwMi0xdi1yby1rcw=="].sort(()=>Math.random()-.5),g=[];for(const i of n)for(const w of h)g.push({model:i,key:atob(w).split("").reverse().join("")});async function f(i){var o;const w=`عبارت:
+${i}
 
 مطالب مربوط به مغالطه ها:
 
-${h}
+${s}
 
-${n}`;try{for(const{model:t,key:o}of s){const b=await(await fetch("https://openrouter.ai/api/v1/chat/completions",{method:"POST",headers:{Authorization:`Bearer ${o}`,"Content-Type":"application/json"},body:JSON.stringify({model:t,messages:[{role:"user",content:c}]})})).json();if((m=b==null?void 0:b.error)!=null&&m.code&&[429,502,503].includes(b.error.code)){console.log(o.slice(9,13),t,b.error.code);continue}const p=b.choices[0].message.content.split(`
-`);let i=[];for(const e of p){const w=[...new Set(e.trim().split(" ").filter(a=>!isNaN(a)).map(a=>parseInt(a)-1).filter(a=>!isNaN(a)&&a>=0&&a<229))];w.length>i.length&&(i=w)}return i.length<200?i.sort((e,w)=>e-w):[]}}catch(t){console.error("Error on ai:",t)}return[]}export{f as default};
+${p}`;try{for(const{model:b,key:m}of g){const a=await(await fetch("https://openrouter.ai/api/v1/chat/completions",{method:"POST",headers:{Authorization:`Bearer ${m}`,"Content-Type":"application/json"},body:JSON.stringify({model:b,messages:[{role:"user",content:w}],reasoning:{exclude:!0}})})).json();if((o=a==null?void 0:a.error)!=null&&o.code&&a.error.code>=429){console.log(m.slice(9,13),b,a.error.code);continue}const l=a.choices[0].message.content.split(`
+`);let c=[];for(const e of l){const t=[...new Set(e.replace(/\{(.*?)\}/,"{ $1 }").trim().split(" ").filter(d=>!isNaN(d)).map(d=>parseInt(d)-1).filter(d=>!isNaN(d)&&d>=0&&d<229))];t.length>c.length&&(c=t)}return c.length<200?c.sort((e,t)=>e-t):[]}}catch(b){console.error("Error on ai:",b)}return[]}export{f as default};
